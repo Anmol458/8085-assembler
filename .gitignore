@@ -1,0 +1,11 @@
+*.exe
+*.bin
+*.hex
+*.o
+*.obj
+
+.vscode/
+.idea/
+
+output/*
+!output/.gitkeep
